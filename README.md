@@ -41,4 +41,4 @@ Aqui está uma visualização de como o aplicativo se parece:
 ```html
 <h2 class="title">To-Do App</h2>
 <input type="text" id="input-text" placeholder="Add your text">
-<button onclick="addTask()">Add</button>
+<button onclick="addTask()">Add</button>```
