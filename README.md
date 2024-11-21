@@ -1,4 +1,4 @@
-# To-Do App
+# To-Do-List
 
 ## Introdução
 Este é um aplicativo simples de lista de tarefas desenvolvido com HTML, CSS e JavaScript. Ele permite que os usuários adicionem, visualizem e gerenciem suas tarefas em uma interface amigável.
